@@ -1,4 +1,3 @@
-// Throttled scroll handler for better performance
 let ticking = false;
 
 function updateParallax() {
